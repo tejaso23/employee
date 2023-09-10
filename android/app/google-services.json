@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "44799179143",
+    "project_id": "employee-management-fc421",
+    "storage_bucket": "employee-management-fc421.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44799179143:android:ef8e70cc7ed182ff237b22",
+        "android_client_info": {
+          "package_name": "in.adityabodhankar.employee_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44799179143-fhb0gt5r5p5a4f211dfbndovdcp5e2kn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCexkN-bTcyiJgbpo1DC9fT_1KEf-NjSqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44799179143-fhb0gt5r5p5a4f211dfbndovdcp5e2kn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

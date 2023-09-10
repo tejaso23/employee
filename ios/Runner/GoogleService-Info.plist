@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>44799179143-4nacm6j36vnnjdu8esi8tl9k422qi480.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.44799179143-4nacm6j36vnnjdu8esi8tl9k422qi480</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBJ7uRVwhrLyDCfGC91G6LUMmjCmk0rStc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>44799179143</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>in.adityabodhankar.employeeManagement</string>
+	<key>PROJECT_ID</key>
+	<string>employee-management-fc421</string>
+	<key>STORAGE_BUCKET</key>
+	<string>employee-management-fc421.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:44799179143:ios:c96a79e13a0f100b237b22</string>
+</dict>
+</plist>
